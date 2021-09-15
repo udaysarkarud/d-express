@@ -1,19 +1,19 @@
 const clients = [
     {
         clientText: `“The ease of delivery is one that I depended on when I
-        was bedriden and couldn’t even walk. Their services is awesome”`,
+        was bedriden and couldn’t even walk. Their services is awesome. The ease of delivery is one that I depended on when I was bedriden and couldn’t even walk. Their services is awesome.”`,
         clientName: `Isidro F. Shipman`
     },
     {
-        clientText: `“Before we move on to fake testimonials, let’s start from the  beginning. How do we define customer”`,
+        clientText: `“Before we move on to fake testimonials, let’s start from the  beginning. How do we define customer. Before we move on to fake testimonials, let’s start from the  beginning. How do we define customer”`,
         clientName: `Lisa J. Lynch`
     },
     {
-        clientText: `“You see them all the time on sellers’ websites, review sites, social media platforms, and so on.”`,
+        clientText: `“You see them all the time on sellers’ websites, review sites, social media platforms, and so on. You see them all the time on sellers’ websites, review sites, social media platforms, and so on.”`,
         clientName: `Anissa M. Harmon`
     },
     {
-        clientText: `“Testimonials represent a social proof, a vote of confidence for your business. In the best scenario.”`,
+        clientText: `“Testimonials represent a social proof, a vote of confidence for your business. In the best scenario. Testimonials represent a social proof, a vote of confidence for your business. In the best scenario.”`,
         clientName: `Delores J. Sessions`
     },
 
